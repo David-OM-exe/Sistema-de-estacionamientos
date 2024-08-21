@@ -5,7 +5,7 @@ Usando C# se creara un sistema de estacionamientos el cual permitira de forma m√
 ![Diagrama de funcionamiento](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCQrl-_iVUTbbkqxIOuvtsYm0RU3n1qPBpQ&s)
 
 
-## Ejemplo de Uso: 
+## Codigo: 
 ```
 Ôªøusing System;
 using System.Runtime.InteropServices;
